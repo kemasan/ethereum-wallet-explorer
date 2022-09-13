@@ -16,7 +16,9 @@ Instruction:
 
 ## Working notebook
 
-To explore the wallet activity need to fetch data from [Etherscan](https://etherscan.io/) (download CSV file)
+To explore the wallet activity need to fetch data from [Etherscan](https://etherscan.io/) (download CSV file, limit 5000 txs)
 
 * import the required libraries and packeges 
-* read the CSV files in DataFrame
+* read the CSV files 
+* merge DataFrames 
+* elaborate and analyzing data
